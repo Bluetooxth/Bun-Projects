@@ -1,0 +1,17 @@
+{
+  "name": "json-formatter",
+  "module": "index.js",
+  "type": "module",
+  "bin": {
+    "json-formatter": "index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
